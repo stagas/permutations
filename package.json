@@ -1,0 +1,10 @@
+{
+  "name": "permutations",
+  "version": "0.0.1",
+  "description": "generate unique permutations, like all lottery numbers",
+  "keywords": ["permutations","combinatorics"],
+  "author": "stagas <gstagas@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "engines": { "node": "*" }
+}
