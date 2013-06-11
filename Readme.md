@@ -5,7 +5,7 @@ generate unique permutations, like all lottery numbers
 
 ## Example
 
-```
+```js
 var permutations = require('permutations');
 
 var perm = permutations(4,10);
